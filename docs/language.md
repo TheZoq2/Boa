@@ -23,7 +23,7 @@ A value can be assigned to a variable using `name = value`
 Operators
 ---------
 Basic operators include:
- * Arithmetic operators `+` `-` `*` `/` `^`
+ * Arithmetic operators `+` `-` `*` `/`
  * Comparison operators `<` `<=` `>=` `>` `==` `!=`
  * Logic operators `&` `|` `!`
 
