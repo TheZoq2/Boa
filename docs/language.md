@@ -11,7 +11,7 @@ Syntax
 Basics
 ------
 Comments are started using the `#` sign. Block comments can be done using
-`#>` and `#<`
+`/*` and `*/`
 
 Lines (or sentences) end with `;` unless they end with a block like `{}` or `[]`
 
